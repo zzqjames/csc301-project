@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react'
 import { StyledAnswer } from './Answer-style';
 import { StyledButton } from './Button-style'
